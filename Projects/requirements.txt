@@ -1,4 +1,4 @@
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 plotly==4.1.0
 python-dateutil==2.8.0
@@ -9,7 +9,7 @@ sshuttle==0.78.5
 certifi==2019.9.11
 chardet==3.0.4
 idna==2.8
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 plotly==4.1.0
 python-dateutil==2.8.0
